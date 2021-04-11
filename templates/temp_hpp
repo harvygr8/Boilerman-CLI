@@ -1,0 +1,14 @@
+#ifndef ~classname~_h
+#define ~classname~_h
+
+#include<iostream>
+
+class ~classname~:
+    public:
+          ~classname~();
+    private:
+
+
+
+
+#endif

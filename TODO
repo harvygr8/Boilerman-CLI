@@ -1,0 +1,53 @@
+DECIDE WHETER INDIVIDUAL PROJECTS OR CONFIG
+
+
+
+
+FIX THE AUTHOR STUFF
+
+
+THINK MAJOR RESTRUCTURING NEEDED CHECK IF EVERY TOKEN EXISTS BEFORE PARSING
+
+error handling for custom content func
+
+(DONE)custom and put content are basically the same try and merge them
+
+fix log and success messages (Order properly)
+
+template tokens dict
+
+NEW FOLDER ARGUMENT
+
+cpp header file arg(ensure only for langs like cpp and c)
+for this first check is classname token exists
+
+time/day month stamp after author if flag specified
+
+html template add style and script (maybe turn into proj thingy)
+> -p tag for project
+  > if followed by -b create base web dev project and so on (Bootstrap and tailwind templates)
+
+UNIT TESTING
+
+PIP PACKAGE
+
+FOLLOW PEP8
+
+BMAN TODO LIST PARSER
+
+
+CUSTOM TOKENS PARSING
+
+CUSTOM FILE TEMPLATES ARGUMENT
+
+fast args
+
+e.g: bman.py --cpp hello
+
+node project
+
+folder level find and replace
+
+virtual env setup
+
+VERBOSITY filter -v
